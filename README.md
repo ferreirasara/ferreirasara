@@ -11,5 +11,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara&layout=compact&theme=github_dark " />
 </a>
 
+## 🔥 Streak stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=ferreirasara&theme=dark)
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ferreirasara&theme=nord&column=7)](https://github.com/ferreirasara/github-profile-trophy)
