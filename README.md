@@ -58,4 +58,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ferreirasara&theme=nord&column=7)](https://github.com/ferreirasara/github-profile-trophy)
 
 ## ⏰ Time for a dev joke
-https://readme-jokes.vercel.app/api
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
