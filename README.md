@@ -16,3 +16,6 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ferreirasara&theme=nord&column=7)](https://github.com/ferreirasara/github-profile-trophy)
+
+## 🎶 Now playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=py04p86vsymzia6g1u9n14y4u&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
