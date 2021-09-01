@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/ferreirasara/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&include_all_commits=true&theme=github_dark " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&include_all_commits=true&theme=github_dark&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara&layout=compact&theme=github_dark " />
