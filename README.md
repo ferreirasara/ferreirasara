@@ -1,9 +1,16 @@
 ![](https://img.shields.io/github/followers/ferreirasara?style=social)
-[![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=linkedin&link=https://www.linkedin.com/in/ferreirasara1501/)](https://www.linkedin.com/in/ferreirasara1501/)
 ![](https://komarev.com/ghpvc/?username=ferreirasara&color=blue)
+![](https://img.shields.io/github/stars/ferreirasara?style=social)
+[![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=linkedin&link=https://www.linkedin.com/in/ferreirasara1501/)](https://www.linkedin.com/in/ferreirasara1501/)
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&theme=github_dark&count_private=true)
+## 📊 GitHub Stats
+<a href="https://github.com/ferreirasara/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara&layout=compact&theme=material-palenight" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara)](https://github.com/ferreirasara/github-readme-stats)
 
 ## 🏆 GitHub Trophies
