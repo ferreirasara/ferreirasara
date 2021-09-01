@@ -1,14 +1,14 @@
-### Hi there 👋
-
-
-# GitHub Stats
+## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&theme=github_dark&count_private=true)
 
-# Wakatime Stats
+## Wakatime Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferreirasara&layout=compact)](https://github.com/ferreirasara/github-readme-stats)
 
-# Top Languages
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara)](https://github.com/ferreirasara/github-readme-stats)
 
-# Views
+## Views
 ![](https://komarev.com/ghpvc/?username=ferreirasara&color=blue)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ferreirasara&theme=nord&column=7)](https://github.com/ferreirasara/github-profile-trophy)
