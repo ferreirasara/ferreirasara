@@ -1,4 +1,5 @@
-[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferreirasara1501/)](https://www.linkedin.com/in/ferreirasara1501/)
+![](https://img.shields.io/github/followers/ferreirasara?style=social)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=plastic&logo=linkedin)](https://www.linkedin.com/in/ferreirasara1501/)
 ![](https://komarev.com/ghpvc/?username=ferreirasara&color=blue)
 
 ## GitHub Stats
