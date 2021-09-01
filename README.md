@@ -5,13 +5,11 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/ferreirasara/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&include_all_commits=true&theme=github_dark " />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara&layout=compact&theme=github_dark " />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara)](https://github.com/ferreirasara/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ferreirasara&theme=nord&column=7)](https://github.com/ferreirasara/github-profile-trophy)
