@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/followers/ferreirasara?style=social)
-![](https://komarev.com/ghpvc/?username=ferreirasara&color=blue)
 ![](https://img.shields.io/github/stars/ferreirasara?style=social)
+![](https://komarev.com/ghpvc/?username=ferreirasara&color=blue)
 [![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=linkedin&link=https://www.linkedin.com/in/ferreirasara1501/)](https://www.linkedin.com/in/ferreirasara1501/)
 
 ## 📊 GitHub Stats
