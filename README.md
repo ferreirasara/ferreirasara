@@ -4,7 +4,7 @@
 [![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=linkedin&link=https://www.linkedin.com/in/ferreirasara1501/)](https://www.linkedin.com/in/ferreirasara1501/)
 
 ## 🔊 Now playing
-[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=py04p86vsymzia6g1u9n14y4u&cover_image=true&theme=novatorem)]
+[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=py04p86vsymzia6g1u9n14y4u&cover_image=true&theme=novatorem)
 
 ## 📊 GitHub Stats
 <a href="https://github.com/ferreirasara/github-readme-stats">
