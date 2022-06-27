@@ -1,5 +1,4 @@
-![](https://img.shields.io/github/followers/ferreirasara?style=social)
-![](https://img.shields.io/github/stars/ferreirasara?style=social)
+[![wakatime](https://wakatime.com/badge/user/e40d157e-ee74-4971-a679-081c59f8d5ba.svg)](https://wakatime.com/@e40d157e-ee74-4971-a679-081c59f8d5ba)
 ![](https://komarev.com/ghpvc/?username=ferreirasara&color=blue)
 [![](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=linkedin&link=https://www.linkedin.com/in/ferreirasara1501/)](https://www.linkedin.com/in/ferreirasara1501/)
 
