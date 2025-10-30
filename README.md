@@ -6,14 +6,20 @@
   <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="200"/>
 </div>
 
+<!---
 ## 🔊 Now playing
 ![](https://spotify-github-profile.vercel.app/api/view?uid=py04p86vsymzia6g1u9n14y4u&cover_image=true&theme=novatorem)
+-->
 
+<!---
 ## 📊 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferreirasara&show_icons=true&include_all_commits=true&theme=github_dark&hide=contribs" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirasara&layout=compact&theme=github_dark" />
+-->
 
+<!---
 ## 🔥 Streak stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferreirasara&theme=dark)
+-->
 
 ## 🔧 Programming Languages, Frameworks and other stuff
 
